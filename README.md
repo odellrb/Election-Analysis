@@ -15,7 +15,7 @@ a Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Summary
 
-![Election results](/Resources/.png)
+![Election_results](/Resources/election_screeshot.png)
 
 The analysis of the election show that:
 - There were "x" votes cast in the election.
