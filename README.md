@@ -14,7 +14,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Software: Python 3.7.6, Visual studio code
 
 ## Summary
-
+The image below shows the results of the election.
 ![Election_results](/Resources/election_screenshot.png)
 
 The analysis of the election show that:
