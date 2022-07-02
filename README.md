@@ -13,7 +13,7 @@ a recent congessional election.
 
 ## Resources
 - Data source: election_results.csv
-- Software: Python 3.7.6, Visual studio code
+- Software: Python 3.7.6, Visual studio code 1.68.1
 
 ## Summary
 The image below shows the results of the election.
