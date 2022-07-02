@@ -1,7 +1,9 @@
 # Election-Analysis
 
 ## Project Overview
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
+The purpose of the project was to perform an audit of an election that was done in Colorado.
+A Employee from the Colorado Elections board has approached us to perfrom the audit for 
+a recent congessional election.
 
 1. Calculate the total number of votes cast
 2. Get a complete list of candidates who received votes.
@@ -30,7 +32,9 @@ The analysis of the election show that:
 - The winner of the election was:
     - Candidate ("Diana Degette") , who received "73.8%" of the vote and "272,892" number of votes.
 
-## Challenge Overview
-
-
 ## Challenge Summary
+The highest Election voting turnout was in Denver and the winner was Dianna Degette with almost 74% of the vote.
+this analysis will be helpful for elections in the future to show possibly candidates should go to campaign more or 
+run more adds. Using Python to script and run analysis shows how helpful pyhton can be to calculate large amounts of data
+and provide a simple result.
+This script can be changed to find the most number of votes for other vaiables if the were provided other than candidates and county. For example the data could include other characteristics, such as demographics and geography, the script can be modified to include these characteristics and the analysis can be broken down even further.
